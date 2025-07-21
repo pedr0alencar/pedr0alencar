@@ -28,7 +28,7 @@ I’m Pedro Henrique “speedy” Alencar, an early-career cybersecurity profess
 ### 📚 Certifications & Courses
 - **Google Cybersecurity** – Google *(in progress)*
   - **Foundations of Cybersecurity** - Google Cybersecurity *(2025)*
-  - **Play It Safe: Manage Security Risks** - Google Cybersecurity *(2025)*
+  - **Play It Safe: Manage Security Risks** - Google Cybersecurity *(in progress)*
 - **ISC2 Assesment Course for CC** *(2025)*
 - **Pentest Professional** – Desec Security *(in progress)*
 - **Cisco Network Defense** *(2025)*
