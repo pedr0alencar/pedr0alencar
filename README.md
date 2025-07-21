@@ -36,17 +36,20 @@ Breaking into **Red Team** through labs and pentest write-ups (Metasploitable, B
 - **ISO 27001:2022 ISMS** internal implementation (Sebrae MS)
 
 ### 📈 GitHub Stats
-<p align="center">
+<div align="center">
   <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=pedr0alencar&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&border_radius=15"
-    height="170" />
-
+  <a href="https://github.com/pedr0alencar">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=pedr0alencar&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&border_radius=10"
+      width="420" />
+  </a>
   <!-- Most Used Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedr0alencar&layout=compact&langs_count=8&hide=jupyter%20notebook&border_radius=15"
-    height="170" />
-</p>
+  <a href="https://github.com/pedr0alencar">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedr0alencar&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=github_dark&hide_border=true&border_radius=10"
+      width="420" />
+  </a>
+</div>
 
 
 ---
@@ -57,7 +60,6 @@ Breaking into **Red Team** through labs and pentest write-ups (Metasploitable, B
 | `nist-assessment-tool` | Python + Plotly | CLI + HTML report for NIST CSF self-assessment |
 | `metasploitable-pentest-report` | Markdown + PDF | Attack narrative & mitigation mapping |
 | `speedgarage-backend` | Django | MVC + REST API + PostgreSQL |
-| `speedgarage-frontend` | React/Vite | Responsive UI + Cloudinary images |
 
 *More on my profile → explore, fork, and give feedback!*
 
