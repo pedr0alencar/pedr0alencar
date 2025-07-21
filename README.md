@@ -35,17 +35,19 @@ Breaking into **Red Team** through labs and pentest write-ups (Metasploitable, B
 - **Cisco Network Basics** *(2024)*
 - **ISO 27001:2022 ISMS** internal implementation (Sebrae MS)
 
+### 📈 GitHub Stats
 <p align="center">
   <!-- GitHub Stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=pedr0alencar&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&border_radius=15"
-    height="165" />
+    height="170" />
 
   <!-- Most Used Languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedr0alencar&layout=compact&langs_count=8&hide=jupyter%20notebook&border_radius=15"
-    height="165" />
+    height="170" />
 </p>
+
 
 ---
 
