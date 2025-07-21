@@ -18,7 +18,8 @@ Breaking into **Red Team** through labs and pentest write-ups (Metasploitable, B
 
 
 ### 🛠️ Tech & Tools
-------
+<hr style="border:2px solid gray"
+  
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
 ![Django](https://img.shields.io/badge/Django-grey?logo=django)
 ![Nessus](https://img.shields.io/badge/Nessus-orange)
