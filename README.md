@@ -32,6 +32,8 @@ Breaking into **Red Team** through labs and pentest write-ups (Metasploitable, B
 ---
 
 ### 📚 Certifications & Courses
+---
+
 - **Google Cybersecurity** – Google *(in progress)*
   - **Foundations of Cybersecurity** - Google Cybersecurity *(2025)*
   - **Play It Safe: Manage Security Risks** - Google Cybersecurity *(2025)*
@@ -40,6 +42,8 @@ Breaking into **Red Team** through labs and pentest write-ups (Metasploitable, B
 - **Cisco Network Defense** *(2025)*
 - **Cisco Network Basics** *(2024)*
 - **ISO 27001:2022 ISMS** internal implementation (Sebrae MS)
+
+---
 
 ### 📈 GitHub Stats
 <div align="center">
