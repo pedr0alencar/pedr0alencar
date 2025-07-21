@@ -35,10 +35,30 @@ Breaking into **Red Team** through labs and pentest write-ups (Metasploitable, B
 - **Cisco Network Basics** *(2024)*
 - **ISO 27001:2022 ISMS** internal implementation (Sebrae MS)
 
-### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedr0alencar&show_icons=true&hide_title=true&theme=default" />
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=pedr0alencar&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&border_radius=15"
+    height="165" />
+
+  <!-- Most Used Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedr0alencar&layout=compact&langs_count=8&hide=jupyter%20notebook&border_radius=15"
+    height="165" />
 </p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pedr0alencar&mode=weekly&border_radius=15"
+    height="165" />
+
+  <!-- Trophies (opcional) -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=pedr0alencar&theme=flat&margin-w=5&margin-h=5&no-frame=true&title=Stars,Followers,Commits,Repo,PullRequest"
+    height="165" />
+</p>
+
 
 ---
 
@@ -46,8 +66,6 @@ Breaking into **Red Team** through labs and pentest write-ups (Metasploitable, B
 | Repo | Stack | Highlights |
 |------|-------|-----------|
 | `nist-assessment-tool` | Python + Plotly | CLI + HTML report for NIST CSF self-assessment |
-| `siem-lab` | Docker + ELK | Blue-Team monitoring lab with pre-built alerts |
-| `redteam-scripts` | Bash + Python | OffSec automation (port-scanner, phishing templates) |
 | `metasploitable-pentest-report` | Markdown + PDF | Attack narrative & mitigation mapping |
 | `speedgarage-backend` | Django | MVC + REST API + PostgreSQL |
 | `speedgarage-frontend` | React/Vite | Responsive UI + Cloudinary images |
