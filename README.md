@@ -40,14 +40,14 @@ Breaking into **Red Team** through labs and pentest write-ups (Metasploitable, B
   <!-- GitHub Stats -->
   <a href="https://github.com/pedr0alencar">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=pedr0alencar&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&border_radius=10"
-      width="420" />
+      src="https://github-readme-stats.vercel.app/api?username=pedr0alencar&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&border_radius=10&card_width=430"
+      width="430" />
   </a>
-  <!-- Most Used Languages -->
+  <!-- Most Used Languages (limitado a 6) -->
   <a href="https://github.com/pedr0alencar">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedr0alencar&layout=compact&langs_count=8&hide=jupyter%20notebook&theme=github_dark&hide_border=true&border_radius=10"
-      width="420" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedr0alencar&layout=compact&langs_count=6&theme=github_dark&hide_border=true&border_radius=10&card_width=430"
+      width="430" />
   </a>
 </div>
 
@@ -65,7 +65,7 @@ Breaking into **Red Team** through labs and pentest write-ups (Metasploitable, B
 
 ---
 
-*Last updated: {{auto-date}}*
+*Last updated: 21/07/2025*
 
 <!--
 **pedr0alencar/pedr0alencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
