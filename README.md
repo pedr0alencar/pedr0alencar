@@ -12,9 +12,7 @@ São Paulo | Brazil
 ---
 
 ### 🚀 About Me
-Defensive-security professional with hands-on experience in **Vulnerability Management**, **GRC/ISO 27001**, and **Phishing Awareness**.  
-Currently interning at Sebrae MS, leading monthly Nessus scans and Python-based dashboard automation (70 % less report time).  
-Breaking into **Red Team** through labs and pentest write-ups (Metasploitable, Burp Suite, Metasploit).
+I’m Pedro Henrique “speedy” Alencar, an early-career cybersecurity professional who approaches networks with the same respect I give to vintage engines: understand every moving part, keep it finely tuned, and never stop learning from the road. My work sits at the crossroads of defensive monitoring and offensive testing, where I automate routine safeguards, build small labs to probe their limits, and translate technical findings into clear, actionable insight. Away from the terminal, I restore classic cars—an enduring reminder that craftsmanship, curiosity, and a well-calibrated toolset can turn complex systems into reliable performers.
 
 
 ### 🛠️ Tech & Tools
