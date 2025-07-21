@@ -47,19 +47,6 @@ Breaking into **Red Team** through labs and pentest write-ups (Metasploitable, B
     height="165" />
 </p>
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pedr0alencar&mode=weekly&border_radius=15"
-    height="165" />
-
-  <!-- Trophies (opcional) -->
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=pedr0alencar&theme=flat&margin-w=5&margin-h=5&no-frame=true&title=Stars,Followers,Commits,Repo,PullRequest"
-    height="165" />
-</p>
-
-
 ---
 
 ### 📌 Pinned Projects
