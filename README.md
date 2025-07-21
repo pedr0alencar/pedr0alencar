@@ -55,8 +55,6 @@ Breaking into **Red Team** through labs and pentest write-ups (Metasploitable, B
 </div>
 
 
----
-
 ### 📌 Pinned Projects
 | Repo | Stack | Highlights |
 |------|-------|-----------|
