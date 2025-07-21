@@ -12,7 +12,7 @@ São Paulo | Brazil
 ---
 
 ### 🚀 About Me
-I’m Pedro Henrique “speedy” Alencar, an early-career cybersecurity professional who approaches networks with the same respect I give to vintage engines: understand every moving part, keep it finely tuned, and never stop learning from the road. My work sits at the crossroads of defensive monitoring and offensive testing, where I automate routine safeguards, build small labs to probe their limits, and translate technical findings into clear, actionable insight. Away from the terminal, I restore classic cars—an enduring reminder that craftsmanship, curiosity, and a well-calibrated toolset can turn complex systems into reliable performers.
+I’m Pedro Henrique “speedy” Alencar, an early-career cybersecurity professional who approaches networks with the same respect I give to vintage engines: understand every moving part, keep it finely tuned, and never stop learning from the road. My work sits at the crossroads of defensive monitoring and offensive testing, where I automate routine safeguards, build small labs to probe their limits, and translate technical findings into clear, actionable insight. Away from the terminal, I restore classic cars an enduring reminder that craftsmanship, curiosity, and a well-calibrated toolset can turn complex systems into reliable performers.
 
 
 ### 🛠️ Tech & Tools
