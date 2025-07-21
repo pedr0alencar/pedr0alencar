@@ -16,9 +16,9 @@ Defensive-security professional with hands-on experience in **Vulnerability Mana
 Currently interning at Sebrae MS, leading monthly Nessus scans and Python-based dashboard automation (70 % less report time).  
 Breaking into **Red Team** through labs and pentest write-ups (Metasploitable, Burp Suite, Metasploit).
 
-___
 
 ### 🛠️ Tech & Tools
+----
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
 ![Django](https://img.shields.io/badge/Django-grey?logo=django)
 ![Nessus](https://img.shields.io/badge/Nessus-orange)
