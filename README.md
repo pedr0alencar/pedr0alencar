@@ -26,8 +26,13 @@ Breaking into **Red Team** through labs and pentest write-ups (Metasploitable, B
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 
 ### 📚 Certifications & Courses
+- **Google Cybersecurity** – Google *(in progress)*
+  - **Foundations of Cybersecurity** - Google Cybersecurity *(2025)*
+  - **Play It Safe: Manage Security Risks** - Google Cybersecurity *(2025)*
+- **ISC2 Assesment Course for CC** *(2025)*
 - **Pentest Professional** – Desec Security *(in progress)*
 - **Cisco Network Defense** *(2025)*
+- **Cisco Network Basics** *(2024)*
 - **ISO 27001:2022 ISMS** internal implementation (Sebrae MS)
 
 ### 📈 GitHub Stats
