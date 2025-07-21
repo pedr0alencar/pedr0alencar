@@ -29,7 +29,7 @@ Breaking into **Red Team** through labs and pentest write-ups (Metasploitable, B
 ![Metasploit](https://img.shields.io/badge/Metasploit-blue)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 
-___
+---
 
 ### 📚 Certifications & Courses
 - **Google Cybersecurity** – Google *(in progress)*
